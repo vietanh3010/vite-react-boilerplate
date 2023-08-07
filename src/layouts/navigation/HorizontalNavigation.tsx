@@ -5,7 +5,7 @@ const HorizontalNavigation = (): JSX.Element => {
 
 
     return (
-        <div>horz naiva</div>
+        <></>
     )
 }
 

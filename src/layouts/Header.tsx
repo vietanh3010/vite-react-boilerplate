@@ -6,6 +6,7 @@ const Header = (): JSX.Element => {
 
     return (
         <header>
+            <div className="text-primary text-xl font-bold">Talent Flow</div>
             <HorizontalNavigation/>
         </header>
     )
